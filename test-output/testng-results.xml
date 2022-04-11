@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57" started-at="2020-10-22T19:41:30 IST" finished-at="2020-10-22T19:41:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57" started-at="2020-10-22T19:41:30 IST" finished-at="2020-10-22T19:41:30 IST">
+      <class name="jain2.ExtentReportsDemo">
+        <test-method status="FAIL" signature="Config()[pri:0, instance:jain2.ExtentReportsDemo@51e2adc7]" name="Config" is-config="true" duration-ms="12" started-at="2020-10-22T19:41:30 IST" finished-at="2020-10-22T19:41:30 IST">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problem: 
+extent cannot be resolved or is not a field
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problem: 
+extent cannot be resolved or is not a field
+
+at jain2.ExtentReportsDemo.Config(ExtentReportsDemo.java:30)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)
+at org.testng.TestRunner.beforeRun(TestRunner.java:607)
+at org.testng.TestRunner.run(TestRunner.java:578)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Config -->
+        <test-method status="SKIP" signature="InitialDemo()[pri:0, instance:jain2.ExtentReportsDemo@51e2adc7]" name="InitialDemo" duration-ms="0" started-at="2020-10-22T19:41:30 IST" finished-at="2020-10-22T19:41:30 IST">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problem: 
+extent cannot be resolved or is not a field
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problem: 
+extent cannot be resolved or is not a field
+
+at jain2.ExtentReportsDemo.Config(ExtentReportsDemo.java:30)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)
+at org.testng.TestRunner.beforeRun(TestRunner.java:607)
+at org.testng.TestRunner.run(TestRunner.java:578)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitialDemo -->
+      </class> <!-- jain2.ExtentReportsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

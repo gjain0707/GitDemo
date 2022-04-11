@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-27T05:30:58Z" name="Surefire suite" finished-at="2020-08-27T05:30:58Z" duration-ms="31">
+    <groups>
+    </groups>
+    <test started-at="2020-08-27T05:30:58Z" name="Surefire test" finished-at="2020-08-27T05:30:58Z" duration-ms="31">
+      <class name="jain2.APITest">
+        <test-method signature="APIAutomation()[pri:0, instance:jain2.APITest@2df32bf7]" started-at="2020-08-27T05:30:58Z" name="APIAutomation" finished-at="2020-08-27T05:30:58Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIAutomation -->
+        <test-method signature="ElememtsAPI()[pri:0, instance:jain2.APITest@2df32bf7]" started-at="2020-08-27T05:30:58Z" name="ElememtsAPI" finished-at="2020-08-27T05:30:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElememtsAPI -->
+      </class> <!-- jain2.APITest -->
+      <class name="jain2.SeleniumTest">
+        <test-method signature="BroswerAutomation()[pri:0, instance:jain2.SeleniumTest@2a40cd94]" started-at="2020-08-27T05:30:58Z" name="BroswerAutomation" finished-at="2020-08-27T05:30:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BroswerAutomation -->
+        <test-method signature="ElememtsBrowser()[pri:0, instance:jain2.SeleniumTest@2a40cd94]" started-at="2020-08-27T05:30:58Z" name="ElememtsBrowser" finished-at="2020-08-27T05:30:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElememtsBrowser -->
+      </class> <!-- jain2.SeleniumTest -->
+      <class name="jain2.AppiumTest">
+        <test-method signature="AppiumAutomation()[pri:0, instance:jain2.AppiumTest@530612ba]" started-at="2020-08-27T05:30:58Z" name="AppiumAutomation" finished-at="2020-08-27T05:30:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumAutomation -->
+        <test-method signature="ElememtsAppium()[pri:0, instance:jain2.AppiumTest@530612ba]" started-at="2020-08-27T05:30:58Z" name="ElememtsAppium" finished-at="2020-08-27T05:30:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElememtsAppium -->
+      </class> <!-- jain2.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
